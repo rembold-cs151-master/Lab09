@@ -1,4 +1,4 @@
-# Filename: Lab08.py
+# Filename: Lab09.py
 
 """
 Write a Clicky game where a box moves to a new random
