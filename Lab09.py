@@ -17,7 +17,7 @@ GW_HEIGHT = 500
 SQUARE_SIZE = 50
 
 def clicky_box():
-    # I'd start with your code from Monday in this space and then build off of that
+    # I'd start with your code from last lab in this space and then build off of that
 
 
 
