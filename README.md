@@ -1,4 +1,3 @@
-# Lab 9
-Today we are building off of what was done in Lab 8, so I'd strongly suggest you copy over code from that file as your starting point!
+# Lab 7
+Today you are building off an already existing piece of code, in order to add a bit of animation to a game! Follow the instructions to add a shrinking animation to the clicky box game.
 
-Then follow the instructions to add a shrinking animation to your clicky box game!
